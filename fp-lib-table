@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 10posFPC)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/10posFPC.pretty)(options "")(descr ""))
+  (lib (name chickadee)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/chickadee.pretty)(options "")(descr ""))
+)

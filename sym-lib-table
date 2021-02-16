@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 10posFPC)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/components/10posFPC.lib)(options "")(descr ""))
+)
